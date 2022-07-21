@@ -1,11 +1,6 @@
 
-const flexBox = css`
-  display: flex;
-  align-items: center;
-  justify-content: center;
-`;
 
-export const GlobalStyle = createGlobalStyle`
+
    * {
         margin: 0;
         padding: 0;
@@ -50,4 +45,4 @@ export const GlobalStyle = createGlobalStyle`
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
     }
-`;
+
