@@ -1,4 +1,3 @@
-import { createGlobalStyle, css } from "styled-components";
 
 const flexBox = css`
   display: flex;
