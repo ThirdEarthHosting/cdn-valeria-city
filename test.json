@@ -1,6 +1,6 @@
 { 
     "body": {
-        "background-color":"red",
+        "backgroundColor":"red",
         "font-size":"9pt"
     }
 }
