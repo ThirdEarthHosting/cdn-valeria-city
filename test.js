@@ -1,4 +1,4 @@
-{
+return = {
   colors: {
     powderWhite: "#FFFDF9",
     persianGreen: "#06B49A",
