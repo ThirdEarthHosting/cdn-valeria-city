@@ -3,7 +3,8 @@
     "powderWhite": "#FFFDF9",
     "persianGreen": "#06B49A",
     "white": "#FFF",
-    "onyx": "#36313D"
+    "onyx": "#36313D",
+    "dark":"#070F1F",  
   },
   "fonts": [
     "sans-serif",
