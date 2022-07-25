@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "darkBlue": "#082785",
+    "persianGreen": "#06B49A",
+    "white": "#FFF",
+    "onyx": "#36313D",
+    "dark": "#070F1F" 
+  },
+  "fonts": [
+    "sans-serif",
+    "Roboto"
+  ],
+  "fontSizes": {
+    "small": "1em",
+    "medium": "2em",
+    "large": "3em"
+  }
+}
