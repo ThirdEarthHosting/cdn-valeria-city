@@ -16,10 +16,11 @@ jobs:
     - name: SSH and pull
       uses: appleboy/ssh-action@master
       with:
+      # set proper secrets in repository Settings > Secrets > Action
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USERNAME }}
         key: ${{ secrets.SSH_KEY }}
         port: ${{ secrets.SSH_PORT }}
         script: |
-          cd ~/cdn-third-earth
+          cd ~/[cdn-client-name]
           git pull
