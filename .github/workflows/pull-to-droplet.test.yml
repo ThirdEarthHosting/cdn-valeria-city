@@ -22,5 +22,5 @@ jobs:
         key: ${{ secrets.SSH_KEY_TEST }}
         port: ${{ secrets.SSH_PORT_TEST }}
         script: |
-          cd ~/[cdn-client-name]
+          cd ~/cdn-valeria-city
           git pull
