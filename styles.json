@@ -1,39 +1,50 @@
 {
+  "//colors_description": "The color section represents the set of colors available to create the site's theme, from primary to tertiary colors, with their respective variations. When customizing your theme, the keys on the objects will indicate which property should be used in the global style sheet. If there is any very specific customization, please contact the ThirdEarth development. General background of the site use webSiteBackground color team. Only Banner and nav bar(when its in '/' path) use primary. Announcement container, ship setting menu, checkout form button, secondaryButton(secondary button is the main button using in pages like a home, login, register, contact, logout)use secondary color, secondaryButton hover use secondaryHover color. Expires Modal, BebackSoon component use tertiary, secondary text color is using in text of announcement, success is the color used do display success message, error is the color used to display error messages, info is the color used to display info message, warning is the color used to display warning message, the secondary text color is used in button with secondary color",
   "colors": {
-    "primary": "#3772a8",
-    "primaryLight": "#1485b3",
-    "primaryLighter": "#5094f2",
-    "secondary": "#3aa66e",
-    "secondaryLight": "#7dd95e",
-    "secondaryLighter": "#53e3a1",
+    "primary": "#171717",
+    "secondary": "#D126D1",
+    "secondaryHover": "#33915A",
     "tertiary": "#f6e363",
-    "tertiaryLight": "#FFF",
-    "primaryDark": "#CE61F2",
-    "secondaryDark": "#06B49A",
-    "tertiaryDark": "#f6e363",
-    "primaryText": "#333",
-    "secondaryText": "#555",
-    "white": "#fff",
-    "dark": "#585858",
-    "gray": "#A9A9A9",
-    "lightGray": "#eee",
-    "blue": "#2f8bfd",
-    "lightDark": "#dedede",
-    "hover": "#0002",
-    "hoverSecondary": "#30be75",
+    "primaryText": "#fff",
+    "secondaryText": "#eee",
+    "webSiteBackground": "#171717",
     "success": "#00FF40",
     "error": "#DB0408",
     "info": "#00CAFF",
-    "warning":"FFEB61"
+    "warning": "FFEB61"
   },
+
+  "//font_descriptions": "The font block brings the two possible font groups that the site can use, [primary] being the first option and [secondary] the option that will be loaded if the primary is unavailable",
   "fonts": {
-    "sanSerif": "san-serif",
-    "appleGroup": "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif",
-    "arialGroup": "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif"
+    "primary": "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif",
+    "secondary": "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif"
   },
+  "//font_size_description": "The block f font size brings a list of sizes for the site's font, where titles h1(as a main message displayed in banner 'Hosting the future starts here') use largest, h2 (is used for the majority sub title. Ex: 'What is Urbit?' or 'Why urbit') use medium, h3(are the headers used on cards that describe the details of the urbit. Like what is the urbit id, the os urbit) use small",
   "fontSizes": {
     "small": "1em",
+    "midSmall": "1.2",
     "medium": "2em",
-    "large": "3em"
+    "large": "3em",
+    "largest": "6em"
+  },
+  "//font_weight_description": "The block f font weight brings a list of weights for the site's font, where the titles and paragraphs can be customized by the user",
+  "fontWeight": {
+    "h1": "lighter",
+    "h2": "500",
+    "h3": "600",
+    "p": "100"
+  },
+
+  "//compoment_customization": "In this session, styles will be placed for specific components of the site",
+  
+  "//product_card_description": "This section contains the styles for product card",
+  "productCard": {
+    "background":"#eee",
+    "button": {
+      "width": "100%",
+      "height": "40px",
+      "positionText": "center",
+      "borderRadius": "30px"
+    }
   }
 }
