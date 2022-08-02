@@ -1,0 +1,39 @@
+[
+    {
+        "lang_code": "pt",
+        "content": {
+            "header": "Oi John",
+            "btnSignup": "ME APERTE"
+        }
+    },
+    {
+        "lang_code": "en",
+        "content": {
+            "banner": {
+                "title": "Hosting",
+                "btnLetsGo": "Let's Not go"
+            },
+            "urbit": {
+                "title": "Why is Urbit?",
+                "cards": {
+                    "cardId": {
+                        "title": "Urbit IP",
+                        "description": "Is really confusing"
+                    },
+                    "btnUrbit": "Explore Less!"
+                }
+            },
+            "nonexistingsettingbundle": {
+                "setting1": "six",
+                "setting2": "seven"
+            }
+        }
+    },
+    {
+        "lang_code": "es",
+        "content": {
+            "header": "Hola John",
+            "btnSignup": "APERTA ME"
+        }
+    }
+]

@@ -8,7 +8,7 @@ The color section represents the set of colors available to create the site's th
 
 - ## webSiteBackground color. 
 
-<img src="./webSiteBackground.jpg">
+<img src="https://cdn-readme.third.earth/webSiteBackground.jpg">
 
 <br/>
 <hr/>
@@ -17,7 +17,7 @@ Only Banner and navBar( for the navBar, the color is primary when its in '/' pat
 
 - ### primary color.
 
-<img src="./banner.png">
+<img src="https://cdn-readme.third.earth/banner.png">
 
   *Announcement container* <br/>
   *ship setting menu* <br/>
@@ -27,20 +27,20 @@ Only Banner and navBar( for the navBar, the color is primary when its in '/' pat
    
 - ### secondary color
 
-<img src="./secondaryColor.jpg">
+<img src="https://cdn-readme.third.earth/secondaryColor.jpg">
 <hr/>
 
 *secondaryButton hover use*
 - ### secondaryHover color. 
 
-<img src="./secondaryHover.jpg">
+<img src="https://cdn-readme.third.earth/secondaryHover.jpg">
 <hr/>
 
 *Expires Modal* <br/>
 *BebackSoon component*<br/>
     use:
 - ### tertiary color
-<img src="./tertiaryColor.jpg">
+<img src="https://cdn-readme.third.earth/tertiaryColor.jpg">
 <hr/>
 
  secondary text color is using in every places that background color is not [webSiteBackgroundColor], 
@@ -48,13 +48,13 @@ Only Banner and navBar( for the navBar, the color is primary when its in '/' pat
 *success message*<br/>
 use:
 - ### success color
-<img src="./success.jpg">
+<img src="https://cdn-readme.third.earth/success.jpg">
 <hr/>
 
 *error message*<br/>
 use:
 - ### error color
-<img src="./error.jpg">
+<img src="https://cdn-readme.third.earth/error.jpg">
 <hr/>
 
 *info message*<br/>
