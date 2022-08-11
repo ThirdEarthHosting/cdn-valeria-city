@@ -84,3 +84,21 @@ The font block brings the two possible font groups that the site can use, [prima
  
  **h3** *(are the headers used on cards that describe the details of the urbit. Like what is the urbit id, the os urbit) use*
  - ### small
+
+ # Hero Images
+
+
+*Hero image functionality is now* available for some components. Currently available the banner and the section whyUrbit.
+However, images need to meet some requirements to take full advantage of the functionality and provide a good end-user experience. 
+
+### Normal size
+
+- #### maximum recommended size 800kb
+- #### maximum recommended resolution 3000x1848px
+
+### Moblile Size
+
+- #### maximum recommended size 700kb
+- #### maximum recommended resolution 854x1183px
+
+It is necessary to remember the contrast that must exist between the background image and the text on it. When a background image is being used, the default color of the text is the one with the secondaryText key, in this case, the chosen image should make a contrast, improving the user's view.
