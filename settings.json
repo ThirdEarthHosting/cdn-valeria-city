@@ -1,3 +1,5 @@
 {
-    "aboutWe": true
+    "aboutWe": true,
+    "client_name": "Valeria City",
+    "suppress_purchase": false
 }
