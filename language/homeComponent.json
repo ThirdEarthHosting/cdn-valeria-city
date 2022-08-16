@@ -13,4 +13,12 @@
             }
         }
     }
+    {
+        "lang_code": "en",
+        "content": {
+            "description": {
+                "title": "test info here",
+            }
+        }
+    }
 ]
