@@ -1,6 +1,8 @@
 {
   "//colors_description": "The color section represents the set of colors available to create the site's theme, from primary to tertiary colors, with their respective variations. When customizing your theme, the keys on the objects will indicate which property should be used in the global style sheet. If there is any very specific customization, please contact the ThirdEarth development. General background of the site use webSiteBackground color team. Only Banner and nav bar(when its in '/' path) use primary. Announcement container, ship setting menu, checkout form button, secondaryButton(secondary button is the main button using in pages like a home, login, register, contact, logout)use secondary color, secondaryButton hover use secondaryHover color. Expires Modal, BebackSoon component use tertiary, secondary text color is using in text of announcement, success is the color used do display success message, error is the color used to display error messages, info is the color used to display info message, warning is the color used to display warning message, the secondary text color is used in button with secondary color",
-  "colors": {
+  "themes":{
+    "light": {
+    "themeLabel":"light",
     "primary": "#3772a9",
     "secondary": "#9c27b0",
     "secondaryHover": "#03a9f4",
@@ -12,7 +14,22 @@
     "error": "#DB0408",
     "info": "#00CAFF",
     "warning": "FFEB61"
-  },
+  }, 
+  "dark": {
+    "themeLabel":"dark",
+    "primary": "#3772a9",
+    "secondary": "#9c27b0",
+    "secondaryHover": "#03a9f4",
+    "tertiary": "#f6e363",
+    "primaryText": "#fff",
+    "secondaryText": "#fff",
+    "webSiteBackground": "#333",
+    "success": "#00FF40",
+    "error": "#DB0408",
+    "info": "#00CAFF",
+    "warning": "FFEB61"
+  }
+},
 
   "//font_descriptions": "The font block brings the two possible font groups that the site can use, [primary] being the first option and [secondary] the option that will be loaded if the primary is unavailable",
   "fonts": {
