@@ -1,0 +1,17 @@
+[
+    {
+        "lang_code": "pt",
+        "content": {
+        }
+    },
+    {
+        "lang_code": "en",
+        "content": {
+            "banner": {
+                "title": "The Planet Store",
+                "btnLetsGo": "Register Now",
+                "description": "test info here"
+            }
+        }
+    }
+]
