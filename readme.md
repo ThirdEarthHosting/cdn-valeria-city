@@ -5,6 +5,7 @@ The color section represents the set of colors available to create the site's th
 **Tips**
 
 *General background of the site use* 
+test
 
 - ## webSiteBackground color. 
 
