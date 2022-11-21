@@ -1,5 +1,8 @@
 {
     "aboutWe": true,
     "client_name": "Valeria City",
-    "suppress_purchase": false
+    "suppress_purchase": false,
+    "https://www.theplanet.store/about": {
+        "blog": "https://www.theplanet.store/about"
+    }
 }
